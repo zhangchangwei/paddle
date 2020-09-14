@@ -1,5 +1,5 @@
 <div align=center>
- <img src="logo.jpg"/>
+ <img src=""/>
  <h2>一个系统</h2>
  <a href="http://doc.os.roncoos.com/"><strong>项目文档</strong></a>
 </div>
